@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">自己</string>
+    <string name="app_tagline">你的数字镜像</string>
+    <string name="notification_channel_name">镜像日程提醒</string>
+    <string name="notification_channel_desc">另一个自己会在日程时间点给你发消息</string>
+</resources>
